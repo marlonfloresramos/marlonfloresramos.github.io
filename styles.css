@@ -49,11 +49,16 @@ body {
     margin: 10px;
 }
 
-.content p {
+.home-description {
     width: 60%;
     margin: 0 auto; /* Centra el párrafo horizontalmente */
     font-size: 20px;
     margin-bottom: 20px;
+}
+
+.policy {
+    text-align: start;
+    font-size: 12px;
 }
 
 footer {
