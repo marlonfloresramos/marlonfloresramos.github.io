@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: right;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 40px;
+}
+
+.download-buttons img {
+    width: 150px;
+    height: 50px;
+    margin: 0 20px;
+}
+
+.screenshots img {
+    height: 500px;
+    margin: 10px;
+}
+
+.home-description {
+    width: 60%;
+    margin: 0 auto; /* Centra el párrafo horizontalmente */
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.policy {
+    text-align: start;
+    font-size: 12px;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #333; /* Color de fondo del footer, puedes personalizarlo */
+    color: white; /* Color del texto en el footer, puedes personalizarlo */
+}
