@@ -1,20 +1,90 @@
-<?xml version="1.0"?>
-<svg width="700" height="160" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
- <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
- <g class="layer">
-  <title>Layer 1</title>
-  <ellipse cx="75.04" cy="80.92" fill="#ff0000" fill-opacity="0.01" id="svg_1" rx="62" ry="62" stroke="#000000" stroke-width="5"/>
-  <line fill="none" fill-opacity="0.01" id="svg_2" stroke="#000000" stroke-width="5" x1="12.04" x2="135.05" y1="76.92" y2="76.92"/>
-  <ellipse cx="35.54" cy="78.42" fill="#000000" id="svg_3" rx="7.5" ry="7.5" stroke="#000000" stroke-width="5"/>
-  <ellipse cx="221.04" cy="80.42" fill="#ff0000" fill-opacity="0.01" id="svg_6" rx="62" ry="62" stroke="#000000" stroke-width="5"/>
-  <ellipse cx="221.54" cy="80.92" fill="#000000" id="svg_4" rx="7.5" ry="7.5" stroke="#000000" stroke-width="5"/>
-  <line fill="none" id="svg_9" stroke="#000000" stroke-width="5" x1="182.54" x2="260.54" y1="36.92" y2="122.92"/>
-  <path d="m306.73,67.78l33.66,0l0,-33.66l31.68,0l0,33.66l33.66,0l0,31.68l-33.66,0l0,33.66l-31.68,0l0,-33.66l-33.66,0z" fill="#000000" id="svg_10" stroke="#000000" stroke-width="5"/>
-  <ellipse cx="482.46" cy="81.42" fill="#ff0000" fill-opacity="0.01" id="svg_13" rx="62" ry="62" stroke="#000000" stroke-width="5"/>
-  <ellipse cx="481.27" cy="80.62" fill="#000000" id="svg_12" rx="7.5" ry="7.5" stroke="#000000" stroke-width="5"/>
-  <line fill="none" id="svg_11" stroke="#000000" stroke-width="5" transform="rotate(-100.362 482.192 82.0769)" x1="442.2" x2="522.19" y1="38.11" y2="126.04"/>
-  <ellipse cx="617.46" cy="79.19" fill="#ff0000" fill-opacity="0.01" id="svg_16" rx="62" ry="62" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
-  <ellipse cx="648.96" cy="79.38" fill="#000000" id="svg_15" rx="7.5" ry="7.5" stroke="#000000" stroke-width="5"/>
-  <line fill="none" id="svg_14" stroke="#000000" stroke-width="5" x1="557.61" x2="677.54" y1="79.58" y2="77.8"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="515.25104mm"
+   height="106.34899mm"
+   viewBox="0 0 515.25104 106.34899"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><g
+     id="layer1"
+     transform="translate(-4.8517075,-96.743137)"><ellipse
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       id="path1"
+       cx="55.681358"
+       cy="150.82965"
+       rx="49.329651"
+       ry="49.329647" /><g
+       id="g2"
+       transform="matrix(0.19618006,0,0,0.20771299,98.63007,96.743079)">
+	<path
+   class="st0"
+   d="M 396.138,85.295 C 382.966,60.258 362.343,39.397 336.796,24.265 311.26,9.2 280.435,0.001 246.98,0.001 205.742,-0.101 171.48,10.643 145.621,25.522 119.659,40.348 108.465,57.61 108.465,57.61 c -4.363,3.786 -6.824,9.294 -6.721,15.056 0.118,5.77 2.775,11.186 7.273,14.784 l 35.933,28.78 c 7.324,5.864 17.806,5.644 24.875,-0.518 0,0 4.414,-7.978 18.247,-15.88 13.91,-7.85 31.945,-14.173 58.908,-14.258 23.517,-0.051 44.022,8.725 58.016,20.717 6.952,5.941 12.145,12.594 15.328,18.68 3.208,6.136 4.379,11.5 4.363,15.574 -0.068,13.766 -2.742,22.77 -6.603,30.442 -2.945,5.729 -6.789,10.813 -11.738,15.744 -7.384,7.384 -17.398,14.207 -28.634,20.479 -11.245,6.348 -23.365,11.932 -35.612,18.68 -13.978,7.74 -28.77,18.858 -39.701,35.544 -5.449,8.249 -9.71,17.686 -12.416,27.641 -2.742,9.964 -3.98,20.412 -3.98,31.071 0,11.372 0,20.708 0,20.708 0,10.719 8.69,19.41 19.41,19.41 h 46.762 c 10.719,0 19.41,-8.691 19.41,-19.41 0,0 0,-9.336 0,-20.708 0,-4.107 0.467,-6.755 0.917,-8.436 0.773,-2.512 1.206,-3.14 2.47,-4.668 1.29,-1.452 3.895,-3.674 8.698,-6.331 7.019,-3.946 18.298,-9.276 31.07,-16.176 19.121,-10.456 42.367,-24.646 61.972,-48.062 9.752,-11.686 18.374,-25.758 24.323,-41.968 6.001,-16.21 9.242,-34.431 9.226,-53.96 -0.018,-19.784 -5.382,-38.574 -14.123,-55.25 z"
+   id="path1-4" />
+	<path
+   class="st0"
+   d="m 228.809,406.44 c -29.152,0 -52.788,23.644 -52.788,52.788 0,29.136 23.637,52.772 52.788,52.772 29.136,0 52.763,-23.636 52.763,-52.772 0,-29.144 -23.627,-52.788 -52.763,-52.788 z"
+   id="path2" />
+</g><path
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       d="M 6.3517073,150.82965 H 105.01101"
+       id="path5" /><ellipse
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       id="path1-5"
+       cx="241.78514"
+       cy="150.82965"
+       rx="49.329651"
+       ry="49.329647" /><ellipse
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       id="path1-5-0"
+       cx="355.44446"
+       cy="150.82965"
+       rx="49.329651"
+       ry="49.329647" /><ellipse
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       id="path1-5-09"
+       cx="469.27307"
+       cy="150.82965"
+       rx="49.329651"
+       ry="49.329647" /><ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:2.34633;stroke-dasharray:none"
+       id="path6"
+       cx="21.984592"
+       cy="150.82965"
+       rx="3.8268385"
+       ry="3.8268368" /><path
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       d="m 204.10114,118.99679 76.43127,62.36258"
+       id="path8" /><ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:2.34633;stroke-dasharray:none"
+       id="path6-9-5"
+       cx="217.96957"
+       cy="130.31247"
+       rx="3.8268385"
+       ry="3.8268368" /><ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:2.34633;stroke-dasharray:none"
+       id="path6-9-5-1"
+       cx="380.51651"
+       cy="126.05221"
+       rx="3.8268385"
+       ry="3.8268368" /><path
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       d="m 318.97309,184.04492 71.79286,-67.6508"
+       id="path9" /><path
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       d="m 419.94341,150.82965 c 98.65931,0 98.65931,0 98.65931,0"
+       id="path10" /><ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:2.34633;stroke-dasharray:none"
+       id="path6-9-4"
+       cx="507.08945"
+       cy="150.82965"
+       rx="3.8268385"
+       ry="3.8268368" /></g><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#000000;}
+</style></svg>
